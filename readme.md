@@ -25,6 +25,9 @@ Pega y Abre WhatsApp es una extensión de Google Chrome que te permite pegar rá
 3.  Activa el "Modo de desarrollador" en la esquina superior derecha.
 4.  Arrastra y suelta el archivo de la extensión descargada en la página de extensiones.
 
+Zipear: zip -r ext-whatsapp-send.zip *
+
+
 ## Uso
 
 1.  Copia el número de teléfono que deseas contactar desde cualquier página web.
