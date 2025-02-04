@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Abrir WhatsApp",
     "description": "Extensión que permite iniciar una conversación de WhatsApp con cualquier número de teléfono sin necesidad de guardarlo en la agenda.",
-    "version": "1.0",
+    "version": "1.1",
     "action": {
       "default_popup": "whatsappSend.html",
       "default_icon": "wsp.png"
